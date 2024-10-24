@@ -1,0 +1,6 @@
+.movieItem{
+  background-color: blueviolet;
+  max-width: 35%;
+  height: 200px;
+  display: block;
+}

@@ -1,0 +1,9 @@
+.footer{
+  align-items: center;
+  background-color: #5f5f5f;
+}
+.footerText {
+  position: absolute;
+  background-color: aqua;
+  margin-left: 50%;
+}
